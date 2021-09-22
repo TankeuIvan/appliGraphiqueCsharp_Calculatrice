@@ -28,8 +28,8 @@
         <TextBox Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Text="0" x:Name="affichage" Margin="4" />
         <Button Grid.Row="0" Grid.Column="3" Content="Reset" Margin="4" />
 
-        <Button x:Name="buttonM1" Grid.Row="1" Grid.Column="0" Content="M1" Margin="4" Click="buttonM1_Click"/>
-        <Button x:Name="buttonM2" Grid.Row="1" Grid.Column="1" Content="M2" Margin="4" Click="buttonM2_Click" />
+        <Button x:Name="buttonM1" Grid.Row="1" Grid.Column="0" Content="M-" Margin="4" Click="buttonM1_Click"/>
+        <Button x:Name="buttonM2" Grid.Row="1" Grid.Column="1" Content="M+" Margin="4" Click="buttonM2_Click" />
         <Button x:Name="buttonC" Grid.Row="1" Grid.Column="2" Content="C" Margin="4" Click="buttonC_Click"/>
         <Button x:Name="buttonDiv" Grid.Row="1" Grid.Column="3" Content="/" Margin="4" Click="buttonDiv_Click"/>
 
